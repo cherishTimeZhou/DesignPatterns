@@ -1,4 +1,4 @@
-package adapter.objectadapter;
+package Adapter.classadapter;
 
 
 //适配接口

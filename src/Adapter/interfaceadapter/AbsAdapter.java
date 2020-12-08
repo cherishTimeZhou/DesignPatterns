@@ -1,4 +1,4 @@
-package adapter.interfaceadapter;
+package Adapter.interfaceadapter;
 
 //在AbsAdapter 我们将 Interface4 的方法进行默认实现
 public abstract class AbsAdapter implements Interface4 {

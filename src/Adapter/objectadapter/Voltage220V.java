@@ -1,4 +1,4 @@
-package adapter.objectadapter;
+package Adapter.objectadapter;
 
 //被适配的类
 public class Voltage220V {

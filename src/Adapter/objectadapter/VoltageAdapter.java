@@ -1,4 +1,4 @@
-package adapter.objectadapter;
+package Adapter.objectadapter;
 
 //适配器类
 public class VoltageAdapter  implements IVoltage5V {

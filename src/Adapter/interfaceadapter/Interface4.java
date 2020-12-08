@@ -1,4 +1,4 @@
-package adapter.interfaceadapter;
+package Adapter.interfaceadapter;
 
 public interface Interface4 {
 	public void m1();
